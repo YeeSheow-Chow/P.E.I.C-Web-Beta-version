@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:wght@400;700&family=Montserrat:wght@300;400;500;600&family=Epilogue:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-headline: "Libre Caslon Text", serif;
+  --font-body: "Montserrat", sans-serif;
+  --font-label: "Epilogue", sans-serif;
+
+  --color-primary: #3A3A3A;
+  --color-surface: #f9f9f9;
+  --color-secondary: #5e5e5e;
+
+  --animate-spin-slow: spin 8s linear infinite;
+}
+
+@layer base {
+  body {
+    @apply font-body bg-surface text-primary;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-headline;
+  }
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 200, 'GRAD' 0, 'opsz' 24;
+}
