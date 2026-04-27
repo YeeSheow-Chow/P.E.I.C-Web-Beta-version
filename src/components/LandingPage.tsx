@@ -61,7 +61,7 @@ export default function LandingPage() {
             <img 
               alt="Intelligent library environment" 
               className="w-full h-full object-cover transition-transform duration-1000 hover:scale-[1.03]" 
-              src="https://lh3.googleusercontent.com/aida/ADBb0ujkD1JZgOWwUmSKwmi1e3kfOTJtiZrB9iA4F9nySbQ21JTRhcgIazfk6AvU8_uUHL6fX-iZKpCj4m432xVKK6dnYcbvHd2ZCv9FzGZEr740t-x8YCKtyR2BT_mdakuFOFtu3xJG6JhXGyd2qsZASuxl8eM_blTOjNJVq0f4AJDlQuiX7VRLKbh6IENhEjJrNLgYGniJpTzBcj2yILDu5fDt4hUPafIqu0x8ROsQijfcacrKU-jRzkHKe8YPUSsUDlLp4Mev8o4X_A=s2048"
+              src="/images/chiwha.jpg"
               referrerPolicy="no-referrer"
             />
           </div>
