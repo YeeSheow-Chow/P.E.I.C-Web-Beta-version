@@ -280,7 +280,7 @@ export default function LandingPage() {
             <img 
               className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700" 
               alt="Co-working space" 
-              src="https://lh3.googleusercontent.com/aida/ADBb0uiDzKq2Vnd0kTkBpaO6ZUGp2rN4_05txtll79hFLL7pZFSAat-Ku8VGwMdHq6MFvruBezpP4VNw584QO5_mXB2mwso8Ulfs5sMoIuRq60rH-k8XReSSAZj4_awgc3hXCcCFicxvjHxxRYa7-KvMHtDOUk-PpcuJIIq5ex81jC_wPUNKNYxsbreUaHBCJPNGeW-_VmJTmeS08BG06OVEH5vsk849Sbt2ByKsBvKR4FRZadFCl3uJMsD182nhtTtKo0JkYONVdDNqOg=s2048"
+              src="images/office.jpg"
               referrerPolicy="no-referrer"
             />
           </div>
