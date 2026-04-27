@@ -40,7 +40,7 @@ export default function SystemsPage({ onSelectRoom }: { onSelectRoom: (room: num
             <motion.img 
               alt="3D Architectural scan" 
               className="w-full h-auto block object-cover contrast-[1.05] brightness-[1.02]" 
-              src="https://lh3.googleusercontent.com/aida/ADBb0uggFJllDNz5U4vY5RzURY1dOftG7aea-x982Fb5-5Xz5KMAx6f5H2CX-Yv-8aS9diJt-nbRgxw6NrsZkYGwqjpOXJbkRPtEHFse_tQUHFU_cwZ-Mc5WML9pQ6Arazal2R5fHptAOz-RPKZdhAXCGuO2NjU3-BOCrqjxL1ezYzvnfKxeGlckzjUivAkwDHHQWCaCq3tbRmA_W11N0q105BxIJTHhrLXyzqrvW2FvB_tcfgZnwrYZJIP71MObcMh0yPNCCXYZkBlrVA=s4096"
+              src={`${import.meta.env.BASE_URL}images/3d room.png`}
               referrerPolicy="no-referrer"
               whileHover={{ scale: 1.03 }}
               transition={{ duration: 0.8, ease: "easeOut" }}
